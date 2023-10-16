@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "userName": "Hidetran",
+      "password": "U2FsdGVkX18NzqNNOyntLDFCTO3O0xzt3Alg+f1PUr8=",
+      "email": "thanhhai071289@gmail.com",
+      "role": "admin",
+      "status": true,
+      "id": 1,
+      "carts": [
+        {
+          "pictures": [
+            "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1079634272763.3137.png?alt=media&token=19b6e2e1-e0f4-4ab2-8c9d-258463984ca5"
+          ],
+          "category": "Yamaha",
+          "price": 60000000,
+          "name": "MT 03",
+          "id": 3,
+          "quantity": 3
+        },
+        {
+          "pictures": [
+            "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F56504751941.67113.png?alt=media&token=1e66c5e0-9268-4466-8d6d-f7cb51dfb663"
+          ],
+          "category": "Kawasaki",
+          "price": 165000000,
+          "name": "Z 400",
+          "id": 5,
+          "quantity": 2
+        },
+        {
+          "pictures": [
+            "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F344940392946.90393.png?alt=media&token=f820bfb1-b03a-42d9-83bb-da384d9e7799"
+          ],
+          "category": "Yamaha",
+          "price": 50000000,
+          "name": "XSR 155",
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "pictures": [
+            "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1221037463682.1548.png?alt=media&token=e2c06d75-e65d-4250-a70e-2bda3a1afbe0"
+          ],
+          "category": "Ducati",
+          "price": 320000000,
+          "name": "Monster",
+          "id": 7,
+          "quantity": 1
+        },
+        {
+          "pictures": [
+            "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1160265722325.9888.png?alt=media&token=52f48ef3-3869-425b-93d0-9e808ad72ee5"
+          ],
+          "category": "Ducati",
+          "price": 650000000,
+          "name": "Diavel",
+          "id": 10,
+          "quantity": 1
+        },
+        {
+          "pictures": [
+            "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F893558463251.9363.png?alt=media&token=f2965790-749d-4243-b23d-700d818b756d"
+          ],
+          "category": "Kawasaki",
+          "price": 240000000,
+          "name": "Z 1000",
+          "id": 6,
+          "quantity": 1
+        }
+      ],
+      "receipts": [
+        {
+          "id": 117317513013.53285,
+          "total": 480000000,
+          "products": [
+            {
+              "pictures": [
+                "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F599846562003.1558.png?alt=media&token=04e91333-a261-4899-8c87-6793e17ef97e"
+              ],
+              "category": "Yamaha",
+              "price": 30000000,
+              "name": "R3",
+              "id": 2,
+              "quantity": 3
+            },
+            {
+              "pictures": [
+                "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F274188808562.5333.png?alt=media&token=0a3f4333-ccaf-480e-b943-cc7937dd680f"
+              ],
+              "category": "Kawasaki",
+              "price": 150000000,
+              "name": "ZX 25R",
+              "id": 4,
+              "quantity": 1
+            },
+            {
+              "pictures": [
+                "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F893558463251.9363.png?alt=media&token=f2965790-749d-4243-b23d-700d818b756d"
+              ],
+              "category": "Kawasaki",
+              "price": 240000000,
+              "name": "Z 1000",
+              "id": 6,
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "userName": "Abc",
+      "password": "U2FsdGVkX182b5O5xLEV4Pfib10PT9rBX1kHl0JLueI=",
+      "email": "hai@gmail.com",
+      "role": "member",
+      "status": true,
+      "id": 2,
+      "carts": [],
+      "receipts": []
+    }
+  ],
+  "products": [
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F344940392946.90393.png?alt=media&token=f820bfb1-b03a-42d9-83bb-da384d9e7799"
+      ],
+      "category": "Yamaha",
+      "price": 50000000,
+      "name": "XSR 155",
+      "id": 1
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F599846562003.1558.png?alt=media&token=04e91333-a261-4899-8c87-6793e17ef97e"
+      ],
+      "category": "Yamaha",
+      "price": 30000000,
+      "name": "R3",
+      "id": 2
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1079634272763.3137.png?alt=media&token=19b6e2e1-e0f4-4ab2-8c9d-258463984ca5"
+      ],
+      "category": "Yamaha",
+      "price": 60000000,
+      "name": "MT 03",
+      "id": 3
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F274188808562.5333.png?alt=media&token=0a3f4333-ccaf-480e-b943-cc7937dd680f"
+      ],
+      "category": "Kawasaki",
+      "price": 150000000,
+      "name": "ZX 25R",
+      "id": 4
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F56504751941.67113.png?alt=media&token=1e66c5e0-9268-4466-8d6d-f7cb51dfb663"
+      ],
+      "category": "Kawasaki",
+      "price": 165000000,
+      "name": "Z 400",
+      "id": 5
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F893558463251.9363.png?alt=media&token=f2965790-749d-4243-b23d-700d818b756d"
+      ],
+      "category": "Kawasaki",
+      "price": 240000000,
+      "name": "Z 1000",
+      "id": 6
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1221037463682.1548.png?alt=media&token=e2c06d75-e65d-4250-a70e-2bda3a1afbe0"
+      ],
+      "category": "Ducati",
+      "price": 320000000,
+      "name": "Monster",
+      "id": 7
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1494152045160.008.png?alt=media&token=8861f300-7ce9-4087-b388-e4010a904be3"
+      ],
+      "category": "Ducati",
+      "price": 380000000,
+      "name": "Scramber",
+      "id": 9
+    },
+    {
+      "pictures": [
+        "https://firebasestorage.googleapis.com/v0/b/test2709-f8508.appspot.com/o/products%2F1160265722325.9888.png?alt=media&token=52f48ef3-3869-425b-93d0-9e808ad72ee5"
+      ],
+      "category": "Ducati",
+      "price": 650000000,
+      "name": "Diavel",
+      "id": 10
+    }
+  ]
+}
